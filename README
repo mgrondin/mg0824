@@ -1,0 +1,5 @@
+This project uses an in memory database with SQL lite.
+Before running the project or any tests the first time, init the database by
+running the main method in SQLliteConnectionManager.
+
+You may then run the test suite using maven test.
